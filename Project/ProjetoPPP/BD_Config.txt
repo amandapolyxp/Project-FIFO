@@ -1,0 +1,66 @@
+ Nome:'Évora Oliveira'
+Data de nascimento:04/04/1290
+Ano:4
+Turma:TP3
+Numero de estudante:130892929
+Saldo:77.44
+ Nome:'Úrsula Menezes'
+Data de nascimento:25/10/1998
+Ano:4
+Turma:TP1
+Numero de estudante:20202928
+Saldo:57.12
+ Nome:'Amanda Menezes'
+Data de nascimento:25/09/1998
+Ano:5
+Turma:TP1
+Numero de estudante:2017124788
+Saldo:44.44
+ Nome:'Polly Menezes'
+Data de nascimento:25/09/1998
+Ano:5
+Turma:TP3
+Numero de estudante:2017124666
+Saldo:48.36
+ Nome:'Bárbara Oliveira'
+Data de nascimento:23/02/2022
+Ano:5
+Turma:TP14
+Numero de estudante:202293939
+Saldo:38.83
+ Nome:'Gabriela Menezes'
+Data de nascimento:04/10/1995
+Ano:6
+Turma:TP12
+Numero de estudante:201677723
+Saldo:38.64
+ Nome:'Amanda Oliveira'
+Data de nascimento:25/09/1998
+Ano:4
+Turma:TP2
+Numero de estudante:2017124777
+Saldo:29.66
+ Nome:'Tina Menezes'
+Data de nascimento:01/03/2007
+Ano:4
+Turma:TP10
+Numero de estudante:16080400
+Saldo:25.77
+ Nome:'Nina Menezes'
+Data de nascimento:27/02/1998
+Ano:1
+Turma:TP3
+Numero de estudante:2016124788
+Saldo:25.52
+ Nome:'Lola Menezes'
+Data de nascimento:28/02/1998
+Ano:2
+Turma:TP3
+Numero de estudante:2016124787
+Saldo:23.54
+ Nome:'Alien Menezes'
+Data de nascimento:25/09/1998
+Ano:4
+Turma:PL1
+Numero de estudante:1
+Saldo:33.33
